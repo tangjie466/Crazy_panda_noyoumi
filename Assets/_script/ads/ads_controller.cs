@@ -472,7 +472,7 @@ public class ads_controller  {
 	
 
 	public void quite_app(string s){
-		Destroy_share ();
+
 		mJo.Call("quiteApp",s);
 	}
 
