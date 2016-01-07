@@ -1,10 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="../Crazy_panda_noYMUpdate/Assets/_script/gates/scence_manger.cs">
     <Files>
-      <File FileName="../Crazy_panda_noYMUpdate/Assets/_script/gates/scence_manger.cs" Line="65" Column="3" />
+      <File FileName="../Crazy_panda_noYMUpdate/Assets/_script/gates/scence_manger.cs" Line="58" Column="2" />
       <File FileName="Assets/ads.cs" Line="20" Column="37" />
-      <File FileName="Assets/_script/ads/ads_controller.cs" Line="475" Column="3" />
+      <File FileName="Assets/_script/ads/ads_controller.cs" Line="44" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
